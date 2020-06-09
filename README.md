@@ -7,7 +7,6 @@
 </h1>
 
 # Index
-- [Index](#index)
   - [📝 About](#-about)
   - [💻 Technologies](#-technologies)
   - [Instructions to use it](#instructions-to-use-it)
