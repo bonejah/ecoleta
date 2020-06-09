@@ -50,5 +50,6 @@ This project uses technologies likes:
   # Open browser: http://localhost/3000
 
 ```
-
+---
+Developed by Bruno Lima June/2020 🦧
 
